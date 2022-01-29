@@ -1,0 +1,20 @@
+{
+    "Header": {
+
+        "title": "Kedai Kopi Sendekala",
+        "paragraph": "Menyediakan berbagai macam kopi dan makanan angkringan seperti nasi kucing, nasi bakar, dan sate-sate an. Dijamin harga murah meriah."
+
+    },
+    "About": {
+        "paragraph": "Kedai Kopi Sendekala adalah kedai kopi yang menawarkan minuman dan makanan. Anda butuh yang hangat-hangat?, pas sekali, anda bisa memesan menu andalan kammi yaitu wedang uwuh. Semua bahan langsung dari perebunan kami. Kami tunggu kedatangan anda.",
+        "Why": [
+            "Bahan makana fresh",
+            "Murah meriah",
+            "Kopi kualitas cafe",
+            "Tempat luas"
+        ],
+        "Why2": [
+            
+        ]
+    }
+}
