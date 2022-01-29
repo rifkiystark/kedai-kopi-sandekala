@@ -1,5 +1,3 @@
-import ParticlesBg from "particles-bg";
-
 export const Header = (props) => {
   return (
     <header id='header'>
