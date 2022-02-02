@@ -33,6 +33,7 @@ export const About = (props) => {
                   </ul>
                 </div>
               </div>
+              Lokasi : JL Kober, Gang Delima, No 30, Kober, Purwokerto Barat, Banyumas
             </div>
           </div>
         </div>
